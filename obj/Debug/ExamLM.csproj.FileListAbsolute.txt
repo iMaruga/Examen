@@ -1,0 +1,7 @@
+C:\Users\x0kar\Desktop\Programacion2D\ExamLM\obj\Debug\ExamLM.csproj.AssemblyReference.cache
+C:\Users\x0kar\Desktop\Programacion2D\ExamLM\obj\Debug\ExamLM.csproj.CoreCompileInputs.cache
+C:\Users\x0kar\Desktop\Programacion2D\ExamLM\bin\Debug\ExamLM.exe.config
+C:\Users\x0kar\Desktop\Programacion2D\ExamLM\bin\Debug\ExamLM.exe
+C:\Users\x0kar\Desktop\Programacion2D\ExamLM\bin\Debug\ExamLM.pdb
+C:\Users\x0kar\Desktop\Programacion2D\ExamLM\obj\Debug\ExamLM.exe
+C:\Users\x0kar\Desktop\Programacion2D\ExamLM\obj\Debug\ExamLM.pdb
