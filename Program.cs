@@ -40,7 +40,7 @@ namespace ExamLM
                 {
                     Console.WriteLine($"Genial! Tienes {playerHp} de Vida y {playerSTR} de fuerza!\n Empecemos....");
                     LoopStats = false;
-                    Gameplay(playerHp, playerSTR);
+                    
 
                 }
                 else 
@@ -52,13 +52,10 @@ namespace ExamLM
 
             }
 
-            
-
-
 
         }
 
-        private int Gameplay(int playerHp, int playerSTR)
+        /*private int Gameplay(int playerHp, int playerSTR)
         {
             Boolean LoopGameplay;
             LoopGameplay = true;
@@ -68,13 +65,24 @@ namespace ExamLM
             {
                 Console.WriteLine("Cuantos enemigos quieres enfrentar? (No puede superar 5)");
                 int enemyamount = int.Parse(Console.ReadLine());
+                if (enemyamount <= 5)
+                {
+                    Console.WriteLine($"Que valentia! Enfrentaras entonces a {enemyamount} lobos!");
 
 
+
+                }
 
 
             }
 
 
+        }*/
+
+        int Damage()
+        {
+           
         }
     }
 }
+

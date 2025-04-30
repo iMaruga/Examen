@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\x0kar\\Desktop\\Programacion2D\\ExamLM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F76F49E-166F-46F5-8EDC-26748A35A7F8}|ExamLM.csproj|c:\\users\\x0kar\\desktop\\programacion2d\\examlm\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F76F49E-166F-46F5-8EDC-26748A35A7F8}|ExamLM.csproj|c:\\users\\x0kar\\desktop\\programacion2d\\examlm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F76F49E-166F-46F5-8EDC-26748A35A7F8}|ExamLM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F76F49E-166F-46F5-8EDC-26748A35A7F8}|ExamLM.csproj|C:\\Users\\x0kar\\Desktop\\Programacion2D\\ExamLM\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F76F49E-166F-46F5-8EDC-26748A35A7F8}|ExamLM.csproj|solutionrelative:enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F76F49E-166F-46F5-8EDC-26748A35A7F8}|ExamLM.csproj|c:\\users\\x0kar\\desktop\\programacion2d\\examlm\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F76F49E-166F-46F5-8EDC-26748A35A7F8}|ExamLM.csproj|C:\\Users\\x0kar\\Desktop\\Programacion2D\\ExamLM\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F76F49E-166F-46F5-8EDC-26748A35A7F8}|ExamLM.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F76F49E-166F-46F5-8EDC-26748A35A7F8}|ExamLM.csproj|c:\\users\\x0kar\\desktop\\programacion2d\\examlm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F76F49E-166F-46F5-8EDC-26748A35A7F8}|ExamLM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\x0kar\\Desktop\\Programacion2D\\ExamLM\\Enemy.cs",
               "RelativeDocumentMoniker": "Enemy.cs",
@@ -34,31 +34,29 @@
               "RelativeToolTip": "Enemy.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T00:38:27.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T00:38:27.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\x0kar\\Desktop\\Programacion2D\\ExamLM\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
               "ToolTip": "C:\\Users\\x0kar\\Desktop\\Programacion2D\\ExamLM\\Player.cs",
               "RelativeToolTip": "Player.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T23:35:01.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T23:35:01.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\x0kar\\Desktop\\Programacion2D\\ExamLM\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\x0kar\\Desktop\\Programacion2D\\ExamLM\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwEUAAABAAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwFMAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T23:31:14.334Z",
               "EditorCaption": ""
